@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Prathmesh <br><br>I'm a Computer Engineering student and Full-Stack Developer specializing in the MERN Stack and Java Spring Boot. I enjoy building responsive web applications, REST APIs, and solving real-world problems through technology.<br><br> Currently working on Full-Stack Web Development Projects<br><br>Learning System Design, DSA, and Advanced Backend Development<br><br>Tech Stack: MongoDB, Express.js, React.js, Node.js, Java, Spring Boot, MySQL, Git, GitHub<br><br>Open to collaboration on Web Development and Open Source Projects<br><br>Reach me: prathmeshpalkar2@gmail.com<br><br>Goal: Become a Software Engineer and build scalable applications.
 
 
